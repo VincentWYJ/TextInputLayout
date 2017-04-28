@@ -4,7 +4,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#3F51B5</color>
-    <color name="colorEditError">#FF0000</color>
+    <color name="colorTextError">#00ff00</color>
+    <color name="colorHintError">#FF0000</color>
     <color name="colorEditContent">#111111</color>
 
 </resources>
